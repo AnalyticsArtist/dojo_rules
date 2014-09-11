@@ -3,3 +3,9 @@ My favorite Code School path is Mastering GitHub.
 My second favorite Code Shcool path is Git Real.
 Electives Path: https://www.codeschool.com/paths/electives
 
+Deadly Skills:
+* SAS
+* R
+* Git
+* GitHub
+
