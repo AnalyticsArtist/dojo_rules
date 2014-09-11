@@ -8,4 +8,5 @@ Deadly Skills:
 * R
 * Git
 * GitHub
+* Killing history using git rebase
 
